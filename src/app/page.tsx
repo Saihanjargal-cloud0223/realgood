@@ -15,7 +15,7 @@ export default function Home() {
         />
         <div className={styles.intro}>
           <h1>
-            SAIHNAA BNA SDA{" "}
+            ENHMUNH BNA SAAIHNAAGIIN LABIIG HIIJIN  bas hosoo sda SDA{" "}
             <code className={styles.code}>page.tsx</code> file.
           </h1>
           <p>
