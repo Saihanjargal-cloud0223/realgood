@@ -15,8 +15,15 @@ export default function Home() {
         />
         <div className={styles.intro}>
           <h1>
-            ENHMUNH BNA SAAIHNAAGIIN LABIIG HIIJIN  bas hosoo sda SDA{" "}
+            Hello world{" "}
             <code className={styles.code}>page.tsx</code> file.
+            <div>
+
+
+              <h1>
+                 comei
+              </h1>
+            </div>
           </h1>
           <p>
             Looking for a starting point or more instructions? Head over to{" "}
